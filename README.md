@@ -2,6 +2,8 @@
 
 TS로 구현
 
+workflow - gitflow
+
 파이어베이스
 를 이용해서 소셜로그인 구현
 
@@ -15,6 +17,7 @@ react-router
 
 react-query
 를 이용해서 데이터 fetch
+(날씨api : https://openweathermap.org/api)
 
 recoil
 을 이용해서 상태관리
