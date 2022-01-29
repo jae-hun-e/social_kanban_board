@@ -18,6 +18,7 @@ react-router
 react-query
 를 이용해서 데이터 fetch
 (날씨api : https://openweathermap.org/api)
+(주식api : https://developers.koscom.co.kr/documentation/marketdata/stocks)
 
 recoil
 을 이용해서 상태관리
