@@ -31,3 +31,6 @@ farmer-motion
 
 apexcharts
 를 이용해서 차트만들기
+
+ps.
+자취방 드디어 구했다.>\_<!!!!
